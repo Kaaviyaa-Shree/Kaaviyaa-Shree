@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Kaaviyaa 👋
 
-<!--
-**Kaaviyaa-Shree/Kaaviyaa-Shree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech AI & Data Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Chennai, India
+
+💡 Interested in AI, Machine Learning, Data Science, and Web Development
+
+🚀 Currently learning DSA and building real-world projects
+
+## Skills
+
+- Python
+- Java
+- SQL
+- Machine Learning
+- Data Analysis
+- Git & GitHub
+
+## Projects
+
+### Resume Skill Matcher
+AI-powered project for matching resumes with job requirements.
+
+### CNN Music Instrument Recognition
+Deep learning project for classifying musical instruments.
+
+### Tamil Dialect Speech Classification
+Machine learning project for dialect identification.
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/kaaviyaa-shree-s-a713a0275
