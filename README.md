@@ -32,4 +32,4 @@ Machine learning project for dialect identification.
 
 ## Connect With Me
 
-LinkedIn: linkedin.com/in/kaaviyaa-shree-s-a713a0275
+LinkedIn: https://www.linkedin.com/in/kaaviyaa-shree-s-a713a0275
