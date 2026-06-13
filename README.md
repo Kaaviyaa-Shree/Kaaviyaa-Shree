@@ -38,3 +38,9 @@ Machine learning project for dialect identification.
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/kaaviyaa-shree-s-a713a0275
+
+## 📊 GitHub Stats
+
+![Kaaviyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaaviyaa-Shree&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaviyaa-Shree&layout=compact)
